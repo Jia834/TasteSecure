@@ -27,7 +27,7 @@
     * Ingredients - pick recipes based on choosen main ingredients
 * Users can save their favorite recipes
 
-## Implementation
+## Implementation 
 
 | Backend              | Database       | Frontend               |
 | -------------------- |----------------| -----------------------|
