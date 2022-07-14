@@ -46,7 +46,7 @@
 
 The backend is currently running on the server: cs-vm-04.cs.mtholyoke.edu
 If you want to run the server locally, here are the instructions. 
-
+ 
 ### Prerequisites
 * Install npm
 * Install all the node package needed for the project
