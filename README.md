@@ -23,7 +23,7 @@
 * Users can check today’s recommendation.
 * Users can filter recipes based on criteria.
     * nutrition amount - descriptive ex) high protein / low in sugar / low in fat 
-    * price for each serving (individual) $, $$, $$$, $$$$
+    * price for each serving (individual)
     * Ingredients - pick recipes based on choosen main ingredients
 * Users can save their favorite recipes
 
